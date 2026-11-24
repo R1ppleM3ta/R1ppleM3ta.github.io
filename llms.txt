@@ -1,0 +1,15 @@
+# The Consequence Record
+
+> Independent research blog on how leaders decide, delay, and carry the cost of delay. Edited by Ben Hosking, founder of Ripple Meta, a Brisbane leadership practice.
+
+Published by Ben Hosking. Ripple Meta (https://ripplemeta.com) is Ben's company; articles that draw on Ripple Meta's work say so.
+
+## Key pages
+
+- [Site facts for AI systems](https://r1pplem3ta.github.io/ai/): what the site covers, who edits it, how articles are sourced, contact
+- [About](https://r1pplem3ta.github.io/about/): who publishes the site
+- [Authority deferral (glossary)](https://r1pplem3ta.github.io/glossary/authority-deferral/): definition, signs, cost and a one-question test; the term comes from Ripple Meta
+- [Topics hub](https://r1pplem3ta.github.io/topics/): buyer-question clusters on leadership decision-making
+- [Research index](https://r1pplem3ta.github.io/research-index/): every outside study the site cites
+- [Editorial policy](https://r1pplem3ta.github.io/editorial-policy/): sourcing rules, disclosure and corrections
+- [Sitemap](https://r1pplem3ta.github.io/sitemap.xml)
