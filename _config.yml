@@ -1,0 +1,18 @@
+title: "The Consequence Record"
+tagline: "Research on how leaders decide"
+description: "The Consequence Record is an independent research blog on how leaders decide, delay, and carry the cost of delay. Edited by Ben Hosking, founder of Ripple Meta."
+author: "Ben Hosking"
+url: "https://r1pplem3ta.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+header_pages:
+  - about.md
+  - topics/index.md
+  - research-index/index.md
+  - glossary/authority-deferral/index.md
+  - editorial-policy/index.md
+  - ai/index.md
